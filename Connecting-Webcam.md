@@ -6,7 +6,7 @@ NOTE: This step is connected with Connecting-Arduino
 
 ## Overview
 
-- install software required to perform project through webcam
+- Install software required to perform project through webcam
 - Testing a color detection program to check if the software works well with the webcam
 
 ---
@@ -14,28 +14,28 @@ NOTE: This step is connected with Connecting-Arduino
 ## Features
 
 - Webcam detects a red-colored object when it appears on the screen
-- displays the word 'red detected'
-- displays the word 'no red' when nothing is detected
+- Displays the word 'red detected'
+- Displays the word 'no red' when nothing is detected
 
 ---
 
 ## Tech Stack
 
-- python
-- opencv
-- numpy
+- Python
+- Opencv
+- Numpy
 
 ---
 
 ## Installation
 
-- install opencv in Anaconda Prompt
+- Install Opencv in Anaconda Prompt
 
   ```bash
   pip install opencv
   ```
 
-- install numpy in Anaconda Prompt
+- Install Numpy in Anaconda Prompt
 
   ```bash
   pip install numpy
