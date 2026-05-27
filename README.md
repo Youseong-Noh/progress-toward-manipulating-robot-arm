@@ -100,7 +100,7 @@ ser.close()
 
 #### Cause
 
-The test code and the default code of Arduino conflicted and caused error.
+The test code and the default code of Arduino overlapped and caused error.
 
 #### Solution
 
