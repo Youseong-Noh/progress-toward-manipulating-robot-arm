@@ -25,17 +25,17 @@
 
 ## Installation
 
-- Installed Anaconda Navigator
-- Installed Spyder in Anaconda Navigator
-- Installed Pyserial in Anaconda Prompt
+- Install Anaconda Navigator
+- Install Spyder in Anaconda Navigator
+- Install Pyserial in Anaconda Prompt
   
   ```bash
   pip install pyserial
   ```
   
-- Installed Arduino IDE
-- Connected the Arduino board via USB
-- Configured the correct COM port
+- Install Arduino IDE
+- Connect the Arduino board via USB
+- Configure the correct COM port
 
 ---
 
