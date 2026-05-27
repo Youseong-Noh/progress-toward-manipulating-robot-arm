@@ -4,7 +4,7 @@
 
 ## Overview
 
-- Installing software required for controlling arduino
+- Installing software required to control arduino
 - Testing a simple code to check the connection between arduino and computer
 
 ---
