@@ -1,7 +1,5 @@
 # Connecting Webcam
 
-NOTE: This step is connected with Connecting-Arduino
-
 ---
 
 ## Overview
@@ -97,5 +95,7 @@ cv2.destroyAllWindows()
 ---
 
 ## Results
+
+<img width="952" height="573" alt="image" src="https://github.com/user-attachments/assets/2a20ba33-b696-4887-8122-aa91dc04dc7f" />
 
 ---
