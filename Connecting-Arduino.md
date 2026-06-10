@@ -90,10 +90,6 @@ ser.close()
 
 ---
 
-## Results
-
----
-
 ## Problems & Solutions
 
 ### Problem : Result of the test code not showing up on Arduino
