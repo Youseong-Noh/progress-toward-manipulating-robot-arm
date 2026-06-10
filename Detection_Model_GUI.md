@@ -1,4 +1,4 @@
-# Model GUI
+# Detection Model GUI
 
 ---
 
