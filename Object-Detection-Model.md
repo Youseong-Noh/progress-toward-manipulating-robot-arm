@@ -217,7 +217,7 @@ model.predict(
 
 ## Results
 
-<img width="955" height="758" alt="image" src="https://github.com/user-attachments/assets/a2a78727-c3d4-4da6-a8ef-1db364f44447" />
+<img width="953" height="746" alt="image" src="https://github.com/user-attachments/assets/936d0cea-ad78-44d3-91f8-00f29f508fd8" />
 
 ---
 
